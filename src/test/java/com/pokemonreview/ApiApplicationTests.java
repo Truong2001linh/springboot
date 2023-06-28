@@ -1,0 +1,11 @@
+package com.pokemonreview;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class ApiApplicationTests {
+	public static void main(String[] args) {
+		SpringApplication.run(ApiApplicationTests.class,args);
+	}
+}
